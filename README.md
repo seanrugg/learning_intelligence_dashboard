@@ -11,7 +11,7 @@
 
 ## The Problem
 
-Billions of hours of high-quality professional learning happen inside AI chat sessions every year — applied problem-solving, strategic analysis, research, skill development. Virtually none of it leaves a verifiable record. At the same time, low-quality passive learning (the compliance module, the required slide deck) is exhaustively documented by LMS systems that record *whether training happened*, not *whether learning occurred*.
+High-quality professional learning can happen inside AI chat sessions — applied problem-solving, strategic analysis, research, skill development. Virtually none of it leaves a verifiable record. At the same time, low-quality passive learning (the compliance module, the required slide deck) is exhaustively documented by LMS systems that record *whether training happened*, not *whether learning occurred*.
 
 The Learning Intelligence Dashboard closes this gap.
 
